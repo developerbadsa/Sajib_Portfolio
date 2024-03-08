@@ -16,7 +16,7 @@ const Statusbar = () => {
         </div>
         {/* Text */}
         <div>
-          <span className='text-2xl font-bold text-indigo-900'> 8 Years Job</span>
+          <span className='text-2xl font-bold text-indigo-900'> 3 Years Job</span>
           <p className='text-orange-600'>Experience</p>
         </div>
       </div>
@@ -28,7 +28,7 @@ const Statusbar = () => {
         </div>
         {/* Text */}
         <div>
-          <span className='text-2xl font-bold text-indigo-900'> 8 Years Job</span>
+          <span className='text-2xl font-bold text-indigo-900'> 2 Years Job</span>
           <p className='text-orange-600'>Experience</p>
         </div>
       </div>
@@ -40,7 +40,7 @@ const Statusbar = () => {
         </div>
         {/* Text */}
         <div>
-          <span className='text-2xl font-bold text-indigo-900'> 8 Years Job</span>
+          <span className='text-2xl font-bold text-indigo-900'> 20 Years Job</span>
           <p className='text-orange-600'>Experience</p>
         </div>
       </div>
