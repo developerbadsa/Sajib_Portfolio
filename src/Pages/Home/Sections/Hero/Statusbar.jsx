@@ -20,6 +20,8 @@ const Statusbar = () => {
           <p className='text-orange-600'>Experience</p>
         </div>
       </div>
+
+
       {/* card 2 */}
       <div className='flex items-center gap-3 px-4 border-r border-r-[#cfc5c5]'>
         {/* Icon */}
@@ -28,8 +30,8 @@ const Statusbar = () => {
         </div>
         {/* Text */}
         <div>
-          <span className='text-2xl font-bold text-indigo-900'> 2 Years Job</span>
-          <p className='text-orange-600'>Experience</p>
+          <span className='text-2xl font-bold text-indigo-900'> 70+ Projects </span>
+          <p className='text-orange-600'>Completed</p>
         </div>
       </div>
       {/* card 3 */}
@@ -40,8 +42,8 @@ const Statusbar = () => {
         </div>
         {/* Text */}
         <div>
-          <span className='text-2xl font-bold text-indigo-900'> 20 Years Job</span>
-          <p className='text-orange-600'>Experience</p>
+          <span className='text-2xl font-bold text-indigo-900'> Online 24/7</span>
+          <p className='text-orange-600'>Support</p>
         </div>
       </div>
 
