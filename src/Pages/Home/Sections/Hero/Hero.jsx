@@ -13,7 +13,9 @@ const Hero = () => {
           <p className='text-2xl '>Expert Graphic Designer</p>
           {/* btn */}
           <div className='flex md:flex-col  gap-4 my-8'>
-            <button className='bg-orange-600 text-white px-4 py-1 font-extrabold rounded-lg hover:bg-purple-500 my-6'>Download CV</button>
+            <a className=' text-center bg-orange-600 text-white px-4 py-1 font-extrabold rounded-lg hover:bg-purple-500 my-6' href="/public/Sajib Graphic Designer Doc.pdf" download={'Sajib CV'}>
+              <button className='text-center'>Download CV</button>
+            </a>
             <button className='bg-purple-600 text-white px-4 py-1 font-extrabold rounded-lg hover:bg-orange-600 my-6'>Contact Me</button>
           </div>
         </div>
