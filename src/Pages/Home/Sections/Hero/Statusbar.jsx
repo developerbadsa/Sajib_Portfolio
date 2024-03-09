@@ -3,7 +3,7 @@ import { FaGear } from "react-icons/fa6";
 
 const Statusbar = () => {
   return (
-    <div className='bg-white border py-6 grid grid-cols-3  gap-9 mx-16 rounded-full h-[120px] px-3' >
+    <div className='bg-white  py-6 grid grid-cols-3 md:mx-16 gap-9 rounded-full h-[120px] px-3 w-full' >
       {/* <FaGear /> */}
 
 
