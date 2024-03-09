@@ -618,7 +618,7 @@ const About = () => {
                 Make your customers happy by giving services.
               </h2> */}
               <p className="mb-5 text-base text-body-color dark:text-dark-6">
-                Hi there ! To begin with, I have 2 years of experience in Graphic Design, Logo Design, Photoshop,
+                Hi there ! To begin with, I have 3 years of experience in Graphic Design, Logo Design, Photoshop,
                 Illustrator, Company Branding and Book cover design.<br /> My skills: - Adobe Photoshop - Adobe
                 Illustrator - Adobe InDesign - Adobe XD <br /> Sincerely
                 <br />
